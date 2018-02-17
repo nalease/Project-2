@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "App used for an employer to login, schedule employee's, and send it out to them",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nalease/Project-2.git"
+  },
+  "author": "David Friend, Jared Ross, Rob McCraken, Nalease Marrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalease/Project-2/issues"
+  },
+  "homepage": "https://github.com/nalease/Project-2#readme"
+}
